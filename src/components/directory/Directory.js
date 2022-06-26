@@ -1,4 +1,4 @@
-import CategoryItem from "../category-item/Category-Item";
+import CategoryItem from "../directory-item/DirectoryItem";
 import "./directory.scss";
 
 function Director({ categories }) {
